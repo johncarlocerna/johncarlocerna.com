@@ -665,6 +665,7 @@ nav.fixed-top .nav-item .nav-link:before {
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: top right;
     position: relative;
     overflow: hidden;
 }
